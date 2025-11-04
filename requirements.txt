@@ -1,0 +1,11 @@
+# requirements.txt
+fastapi
+uvicorn
+pydantic
+scikit-learn
+sentence-transformers
+numpy
+torch
+python-dotenv
+requests
+openai  # <-- ADD THIS LINE BACK
